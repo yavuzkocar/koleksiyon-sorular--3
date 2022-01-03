@@ -1,0 +1,16 @@
+D:\yazılım\pratikler\koleksiyon soruları 3\bin\Debug\net5.0\koleksiyon soruları 3.exe
+D:\yazılım\pratikler\koleksiyon soruları 3\bin\Debug\net5.0\koleksiyon soruları 3.deps.json
+D:\yazılım\pratikler\koleksiyon soruları 3\bin\Debug\net5.0\koleksiyon soruları 3.runtimeconfig.json
+D:\yazılım\pratikler\koleksiyon soruları 3\bin\Debug\net5.0\koleksiyon soruları 3.runtimeconfig.dev.json
+D:\yazılım\pratikler\koleksiyon soruları 3\bin\Debug\net5.0\koleksiyon soruları 3.dll
+D:\yazılım\pratikler\koleksiyon soruları 3\bin\Debug\net5.0\ref\koleksiyon soruları 3.dll
+D:\yazılım\pratikler\koleksiyon soruları 3\bin\Debug\net5.0\koleksiyon soruları 3.pdb
+D:\yazılım\pratikler\koleksiyon soruları 3\obj\Debug\net5.0\koleksiyon soruları 3.csproj.AssemblyReference.cache
+D:\yazılım\pratikler\koleksiyon soruları 3\obj\Debug\net5.0\koleksiyon soruları 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım\pratikler\koleksiyon soruları 3\obj\Debug\net5.0\koleksiyon soruları 3.AssemblyInfoInputs.cache
+D:\yazılım\pratikler\koleksiyon soruları 3\obj\Debug\net5.0\koleksiyon soruları 3.AssemblyInfo.cs
+D:\yazılım\pratikler\koleksiyon soruları 3\obj\Debug\net5.0\koleksiyon soruları 3.csproj.CoreCompileInputs.cache
+D:\yazılım\pratikler\koleksiyon soruları 3\obj\Debug\net5.0\koleksiyon soruları 3.dll
+D:\yazılım\pratikler\koleksiyon soruları 3\obj\Debug\net5.0\ref\koleksiyon soruları 3.dll
+D:\yazılım\pratikler\koleksiyon soruları 3\obj\Debug\net5.0\koleksiyon soruları 3.pdb
+D:\yazılım\pratikler\koleksiyon soruları 3\obj\Debug\net5.0\koleksiyon soruları 3.genruntimeconfig.cache
